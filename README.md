@@ -1,0 +1,2 @@
+# eduque-sistema-de-gestao-educacional
+O Eduque é um Sistema de Gestão Educacional, focado na área de TI, para cursos de aperfeiçoamento e cursos de especialização. A empresa será fundada no ano de 2015, sua primeira unidade está prevista para o segundo semestre de 2015, e está localizada no Bairro da Zona Oeste do Rio de Janeiro. Será proporcionada no mercado como uma empresa de educação na área de TI, Eduque – É um curso onde se tem aulas presenciais e aulas particulares.
